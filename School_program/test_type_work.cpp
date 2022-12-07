@@ -9,6 +9,7 @@ const int MAX_STUDENT = 500;
 const char FILE_PATH[] = "C:\\entry_file.txt";
 typedef int INDEX;
 
+
 typedef double MARK;
 typedef string NAME;
 int entryCount = -1;	//-1 means the list is empty
